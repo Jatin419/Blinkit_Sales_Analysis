@@ -42,6 +42,7 @@ Dashboard:
 
 
 About Me
+
 👋 I’m Jatin Choudhury, a data science enthusiast skilled in data analytics, visualization, Machine Learning, Neural Networks and storytelling.
 
 📫 Reach me at:
